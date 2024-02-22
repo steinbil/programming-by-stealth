@@ -272,7 +272,7 @@ For completeness, the code for the HTML and CSS files is shown below:
 
 <h2>Some Nicely Styled Code</h2>
 <p>So far in this series, we've not done any actual programming yet, but when we
-do we'll learn the improtance of the JavaScript keyword <code>var</code>.</p>
+do we'll learn the importance of the JavaScript keyword <code>var</code>.</p>
 <p>As we continue, even big snippets of code like the following will make
 perfect sense to us:</p>
 <pre class="javascript">
